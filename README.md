@@ -1,0 +1,2 @@
+# AbinitioGraphInPython
+Hi Guys, I love Abinitio but recently I am starting loving python also.¶ So I thought of creating a graph equivalent in python. Let’s do it 😊 So we have this small basic Abinitio Graph which has 5 components. If we need to write this graph in python. Here is a step by step process to do it. Please try in your favorite python IDE. I am using the Jupyter notebook. Please let me know in case you have any questions regarding it. 😊
